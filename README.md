@@ -8,5 +8,6 @@ The project required cleaning the data and performing an initial exploratory ana
 # Data 
 
 Open source data obtained from Instacart. The customer data was fabricated for educational purposes. 
+
 https://www.instacart.com/datasets/grocery-shopping-2017
 
