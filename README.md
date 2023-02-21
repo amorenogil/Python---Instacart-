@@ -1,4 +1,4 @@
-# Python-Instacart-
+# Python - Instacart
 Instacart basket analysis with Python for CareerFoundry Data Analytics program
 # Objectives 
 The objective of the project was to improve the knowledge of Instacart, an online grocery store, of its customers and sales patterns. 
